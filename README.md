@@ -1,7 +1,7 @@
 
 # Hey, I'm Marzanur Zarif 👋
 
-**Student & Developer** · [Portfolio](https://marzanurzarif.github.io/Portfolio/) · [GitHub](https://github.com/MarzanurZarif)
+**Student & Developer** · [Portfolio](https://marzanurzarif.github.io/Portfolio/) · [GitHub](https://github.com/MarzanurZarif) · [LinkedIn](https://linkedin.com/in/marzanurzarif/)
 
 I'm a self-taught developer who enjoys turning ideas into useful software. I build across web development, AI applications, automation, and developer tools, exploring new technologies and learning by creating real projects.
 
@@ -13,7 +13,7 @@ I believe programming is more than writing code — it's about solving problems,
 
 A selection of things I've been building.
 
-### 🤖 Ariq Intelligence
+### [🤖 Ariq Intelligence](https://ariq.onrender.com/)
 
 An AI chatbot built with Python and DeepSeek, designed to provide an interactive conversational experience.
 
