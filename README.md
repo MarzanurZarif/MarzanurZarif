@@ -17,25 +17,25 @@ A selection of things I've been building.
 
 An AI chatbot built with Python and DeepSeek, designed to provide an interactive conversational experience.
 
-**Stack:** Python · DeepSeek API
+**Stack:** `Python` · `DeepSeek API`
 
 ### 📈 DSE Tracker Application
 
 A web application built to explore and track stock-market information through a modern web interface.
 
-**Stack:** Next.js · React
+**Stack:** `Next.js` · `React`
 
 ### ♟️ Fenius Chess Bot
 
 A chess-focused project integrating Stockfish.js into a browser extension environment.
 
-**Stack:** JavaScript · TypeScript · Stockfish.js
+**Stack:** `JavaScript` · `TypeScript` · `Stockfish.js`
 
 ### 🛍️ Laravel E-Commerce Website
 
 An e-commerce web project built with Laravel, exploring online shopping experiences and web application functionality.
 
-**Stack:** PHP · Laravel · MySQL
+**Stack:** `PHP` · `Laravel` · `MySQL`
 
 ---
 
